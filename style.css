@@ -8,3 +8,9 @@ header{
     padding: 20px;
     color: blue;
 }
+
+section{
+    background-color:aquamarine;
+    padding-top:80px;
+    padding-bottom:80px
+}
